@@ -1,9 +1,9 @@
 <?php
 
-$isOk = true;
+$age = 16;
 
-if ($isOk == false) {
-    echo 'c\'est pas bon !!!';
+if ($age >= 18) {
+    echo 'Tu es majeur';
 } else {
-    echo 'c\'est ok !!';
+    echo 'Tu n\'es pas majeur';
 }
