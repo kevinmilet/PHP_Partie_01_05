@@ -1,6 +1,6 @@
 <?php
 
-function func($age = 25, $gender = 'femme')
+function func($age, $gender)
 {
     if ($age >= 18 && $gender == 'homme') {
         echo "Vous êtes un homme et vous êtes majeur";
@@ -13,4 +13,4 @@ function func($age = 25, $gender = 'femme')
     }
 };
 
-func();
+func(12, 'homme');
