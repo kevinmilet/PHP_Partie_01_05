@@ -14,3 +14,5 @@ $months = array(
     'novembre',
     'décembre'
 );
+
+echo $months[2];
