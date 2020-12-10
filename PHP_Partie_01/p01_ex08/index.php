@@ -6,12 +6,12 @@
 // Dans la troisième mettre le résultat de l'opération 45 / 5.  
 // Afficher le contenu des variables.
 
-$number1 = 3 + 4;
-$number2 = 5 * 20;
-$number3 = 45 / 5;
+$addition = 3 + 4;
+$multiplication = 5 * 20;
+$division = 45 / 5;
 
-echo $number1;
+echo $addition;
 echo '<br>';
-echo $number2;
+echo $multiplication;
 echo '<br>';
-echo $number3;
+echo $division;
