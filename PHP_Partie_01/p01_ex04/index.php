@@ -9,9 +9,9 @@ $float = 12.5;
 $boolean = true;
 
 echo $string;
-echo "<br>";
+echo '<br>';
 echo $int;
-echo "<br>";
+echo '<br>';
 echo $float;
-echo "<br>";
+echo '<br>';
 echo $boolean;

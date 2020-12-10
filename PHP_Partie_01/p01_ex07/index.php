@@ -4,7 +4,7 @@
 // Afficher : Bonjour + lastname + firstname + , tu as + age + ans.
 
 $firstname = 'Hubert';
-$lastname = 'Bonisseur de la batte';
+$lastname = 'Bonisseur de la Bath';
 $age = 35;
 
-echo "Bonjour " . $firstname . " " . $lastname . ", tu as " . $age . " ans.";
+echo 'Bonjour ' . $firstname . ' ' . $lastname . ', tu as ' . $age . ' ans.';

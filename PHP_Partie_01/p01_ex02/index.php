@@ -7,7 +7,7 @@ $firstname = 'Kevin';
 $age = 43;
 
 echo $lastname;
-echo "<br>";
+echo '<br>';
 echo $firstname;
-echo "<br>";
+echo '<br>';
 echo $age;

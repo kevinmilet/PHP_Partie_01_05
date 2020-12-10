@@ -7,12 +7,12 @@
 $km = 1;
 
 echo $km;
-echo "<br>";
+echo '<br>';
 
 $km = 3;
 
 echo $km;
-echo "<br>";
+echo '<br>';
 
 $km = 125;
 
