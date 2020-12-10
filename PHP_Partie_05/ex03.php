@@ -1,6 +1,6 @@
 <?php
 
-$months = array(
+$months = [
     'janvier',
     'février',
     'mars',
@@ -13,6 +13,6 @@ $months = array(
     'octobre',
     'novembre',
     'décembre'
-);
+];
 
 echo $months[5];
