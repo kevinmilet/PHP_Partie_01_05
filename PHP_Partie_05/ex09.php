@@ -8,4 +8,7 @@ $departements = [
     '80' => 'Somme'
 ];
 
-echo $departements[59];
+foreach ($departements as $key => $value) {
+    echo "{$key} => {$value} ";
+    echo '<br>';
+};
