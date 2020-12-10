@@ -8,7 +8,7 @@ $departements = [
     '80' => 'Somme'
 ];
 
-foreach ($departements as $value) {
-    echo $value;
+foreach ($departements as $key => $value) {
+    echo 'Le département ' . $value . ' a le numéro ' . $key;
     echo '<br>';
 };
