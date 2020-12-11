@@ -4,6 +4,6 @@
 
 $number = 0;
 
-for ($number = 1; $number <= 100; $number+=15) {
+for ($number = 1; $number <= 100; $number += 15) {
     echo $number.' On tient le bon bout'.'<br>';
 }

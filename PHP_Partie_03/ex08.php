@@ -4,6 +4,6 @@
 
 $number = 0;
 
-for ($number = 200; $number >= 0; $number = $number - 12) {
+for ($number = 200; $number > 0; $number -= 12) {
     echo $number.' Enfin !!!!'.'<br>';
 }
