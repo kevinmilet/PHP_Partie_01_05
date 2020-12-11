@@ -1,6 +1,9 @@
+<!-- En allant de 20 à 0 avec un pas de 1, afficher le message C'est presque bon. -->
+
 <?php
 
-for ($i = 20; $i >= 0; $i--) {
-    echo $i . ' ' . 'C\'est presque bon';
-    echo '<br>';
+$number = 0;
+
+for ($number = 20; $number >= 0; $number--) {
+    echo $number.' C\'est presque bon'.'<br>';
 }

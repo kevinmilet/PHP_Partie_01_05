@@ -1,6 +1,9 @@
+<!-- En allant de 200 à 0 avec un pas de 12, afficher le message Enfin !!!!. -->
+
 <?php
 
-for ($i = 200; $i >= 0; $i = $i - 12) {
-    echo $i . ' ' . 'Enfin !!!!';
-    echo '<br>';
+$number = 0;
+
+for ($number = 200; $number >= 0; $number = $number - 12) {
+    echo $number.' Enfin !!!!'.'<br>';
 }
