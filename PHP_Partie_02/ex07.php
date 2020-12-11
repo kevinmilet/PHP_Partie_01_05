@@ -1,3 +1,8 @@
+<!-- Traduire ce code avec des if et des else :  
+
+  echo ($isOk == false) ? 'c\'est pas bon !!!' : 'c\'est ok !!'; -->
+
+
 <?php
 
 $isOk = true;
