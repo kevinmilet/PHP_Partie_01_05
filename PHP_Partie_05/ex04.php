@@ -1,3 +1,4 @@
+<!-- Avec le tableau de l'exercice 1, modifier le mois de aout pour lui ajouter l'accent manquant. -->
 <?php
 
 $months = [
@@ -18,6 +19,7 @@ $months = [
 echo $months[7];
 echo '<br>';
 
-array_splice($months, 7, 1, 'août');
+// array_splice($months, 7, 1, 'août');
+$months[7] = 'août';
 
 echo $months[7];

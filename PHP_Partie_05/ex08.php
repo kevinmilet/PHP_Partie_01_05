@@ -1,3 +1,5 @@
+<!-- Avec le tableau de l'exercice 1 et une boucle, afficher toutes les valeurs de ce tableau. -->
+
 <?php
 
 $months = [

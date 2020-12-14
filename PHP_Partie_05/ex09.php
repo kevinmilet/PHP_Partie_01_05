@@ -1,3 +1,5 @@
+<!-- Avec le tableau de l'exercice 5, afficher toutes les valeurs de ce tableau. -->
+
 <?php
 
 $departements = [

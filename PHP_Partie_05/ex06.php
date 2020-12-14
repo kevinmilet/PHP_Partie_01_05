@@ -1,3 +1,5 @@
+<!-- Avec le tableau de l'exercice 5, afficher la valeur de l'index 59. -->
+
 <?php
 
 $departements = [
@@ -8,4 +10,4 @@ $departements = [
     '80' => 'Somme'
 ];
 
-echo $departements[59];
+echo $departements['59'];

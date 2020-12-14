@@ -1,3 +1,4 @@
+<!-- Avec le tableau de l'exercice 1, afficher la valeur de l'index 5. -->
 <?php
 
 $months = [

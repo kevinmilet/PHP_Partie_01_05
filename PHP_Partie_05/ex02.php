@@ -1,6 +1,8 @@
+<!-- Avec le tableau de l'exercice 1, afficher la valeur de la troisième ligne de ce tableau. -->
+
 <?php
 
-$months = [
+$months = array(
     'janvier',
     'février',
     'mars',
@@ -13,6 +15,6 @@ $months = [
     'octobre',
     'novembre',
     'décembre'
-];
+);
 
 echo $months[2];
