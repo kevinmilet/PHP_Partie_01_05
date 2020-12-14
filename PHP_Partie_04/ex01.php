@@ -1,8 +1,9 @@
+<!-- Faire une fonction qui retourne true. -->
+
 <?php
 
-function isTrue()
-{
-    echo 'true';
-};
+    function isTrue() {
+        return true;
+    }
 
-isTrue();
+    echo isTrue();

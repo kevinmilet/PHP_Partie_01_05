@@ -1,8 +1,10 @@
+<!-- Faire une fonction qui prend en paramètre une chaine de caractères et qui retourne cette même chaine. -->
+
 <?php
 
-function str($str = 'Une chaine de caractères')
-{
-    echo $str;
-};
+    function str($str)
+    {
+        return $str;
+    };
 
-str();
+    echo str('Une chaine de caractères');
